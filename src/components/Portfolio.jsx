@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import Project from './Project'
-import placeholder from "../assets/placeholder"
+import placeholder from "../assets/placeholder.png"
 
 const Portfolio = () => {
 const [projects] = useState([
